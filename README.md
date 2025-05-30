@@ -13,7 +13,7 @@
     </a>
   </div>
   <h1>
-    hey there
+    My name is Alexander
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -22,9 +22,9 @@
   <h3> :woman_technologist: About Me : </h3>
   I am a Junior Data Analyst from Russia
   
-  - :mechanical_arm: I study at School 21 on the <b>Machine learning</b> branch.
+  - :mechanical_arm: I study at <b>HSE</b> Faculty of Economics.
 
-  - :medal_military: Completed the Data Analyst course from the data science school <b>Karpov Courses</b>
+  - :medal_military: High Quality Award 25% at the <b>CUP Russia 2025</b>
 </div>
 
 ---
@@ -35,14 +35,14 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   title="python" width ="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="c++" width ="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
-    title="git" width ="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width ="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" title="Numpy" width ="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" width ="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="mysql" width ="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width ="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="pgsql" width ="40" height="40"/>&nbsp;
-  <i class="devicon-dbeaver-plain" font-size="40"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+  title="git" width ="40" height="40"/>&nbsp;
+
+
 </div>
 
 ---
@@ -51,10 +51,14 @@
 <div id = "stats">
   <h3> :fire: My Stats : </h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxn04&layout=compact&theme=vision-friendly-dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-768&layout=compact&theme=vision-friendly-dark)
 </div>
 
 </body>
+
+
+
+
 <!--
 **Alexander-768/Alexander-768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
