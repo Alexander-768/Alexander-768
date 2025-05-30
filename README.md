@@ -26,7 +26,7 @@
 
   - :medal_military: High Quality Award 25% at the <b>CUP Russia 2025</b>
 
-  - 📄 **Whole CV:** [View on Google Drive](https://drive.google.com/file/d/16pYnfvRSQ1EAZHA2CZcs6NPxxOD3VOVO/view?usp=sharing)
+  - 📄 **Whole CV in Russian:** [View on Google Drive](https://drive.google.com/file/d/16pYnfvRSQ1EAZHA2CZcs6NPxxOD3VOVO/view?usp=sharing)
 </div>
 
 ---
