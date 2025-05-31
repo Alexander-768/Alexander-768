@@ -50,15 +50,6 @@
 ---
 
 
-<div id = "stats">
-  <h3> :fire: My Stats : </h3>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-768&layout=compact&theme=vision-friendly-dark)
-</div>
-
-</body>
-
-
 
 
 <!--
